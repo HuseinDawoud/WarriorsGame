@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/EggWarriors/Scene`s/\u0421\u0446\u0435\u043D\u0430 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u043E\u0433\u043E
+      \u043C\u0435\u043D\u044E.unity"
+    guid: 4b50d30f8d4e2314ca70bbe157d9768f
+  - enabled: 1
+    path: "Assets/EggWarriors/Scene`s/\u0413\u043B\u0430\u0432\u043D\u044B\u0439
+      \u042D\u043A\u0440\u0430\u043D.unity"
+    guid: 172ad7eaa89a82a4d9d2611ac1e07834
+  - enabled: 1
+    path: Assets/EggWarriors/Scene`s/RegionScene/Northen_America.unity
+    guid: 572a559fa58b9374da7005686eded341
+  - enabled: 1
+    path: Assets/EggWarriors/Scene`s/Battle.unity
+    guid: c4658ae05717fac439f01c613b167e7d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: adaa051f59dcd1f408d9d8815800d5d7, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4b917a5de63f772409a6fae13b844dac, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 97e2f5d0c701bfb45b072e5c4224e3d2, type: 2}

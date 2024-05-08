@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - Friend
+  - Enemie
+  - Enemy
+  - target
+  - FriendWeapon
+  - ProjectTile
+  - Respawn1
+  - FriendBase
+  - EnemyBase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Charachters
+  - Enemy1
+  - Friend
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - EnterFace
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UIE
+    uniqueID: 2742221159
+    locked: 0
+  - name: BackGround
+    uniqueID: 3571424259
+    locked: 0
+  - name: NPC
+    uniqueID: 1260472593
+    locked: 0
+  - name: Farms
+    uniqueID: 567659717
+    locked: 0
+  - name: mamont
+    uniqueID: 4167074197
+    locked: 0
+  - name: InterFace
+    uniqueID: 2084814525
+    locked: 0
